@@ -1,0 +1,8 @@
+#Competitive Programming
+
+'Competitive Programming' is a repository made by [@dieggopastor](https://twitter.com/dieggopastor)
+
+##Solved Problems
+<img src="https://img.shields.io/badge/CodeForces-20-blue.svg">
+<img src="https://img.shields.io/badge/ProjectEuler-7-orange.svg">
+<img src="https://img.shields.io/badge/UVa-7-brightgreen.svg">
