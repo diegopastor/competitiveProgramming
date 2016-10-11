@@ -1,35 +1,20 @@
 s = input()
-p = False
 
-for char in s:
-    if char == 'h':
-        hI = s.index('h')
-        p = True
-        break
-
-for char in s: 
-    if char == 'e':
-        eI = s.index('e')
-        if eI > hI:
-            p = True
-            s = s[eI:]
-            break
-        else:
-            p = False
-
-if 'l' in s and 'o' in s:
-    for char in s:
-        LlI = s.index('l')
-        LoI = s.index('o') 
-    if LoI > LlI and s.count('l') >= 2:
-        p = True
+if 'h' in s:
+    i = s.index('h')
+    if 'e' in s:
+        j = s.index('e')
+        if j > i:
+            if 'l' in s:
+                i = s.index('l')
+                if i > j:
+                    if 'l' in s[i:]:
+                        j = s[i:].index('l')
+                        if j > i:
+                            if 'o' in s:
+                                i = s.index('o')
+                                if i > j:
+                                    print('YES')
 else:
-        p = False
-
-
-if p == True:
-    print('YES')
-else: 
     print('NO')
-
 

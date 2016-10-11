@@ -1,6 +1,6 @@
 #Competitive Programming
 
-'Competitive Programming' is a repository made by [@dieggopastor](https://twitter.com/dieggopastor)
+'Competitive Programming' is a repository made by [@dieggopastor](https://twitter.com/dieggopastor) made for storing solutions to various Competitive Programming websites. 
 
 ##Solved Problems
 <img src="https://img.shields.io/badge/CodeForces-20-blue.svg">
