@@ -1,3 +1,4 @@
+#4 days without code and I yield this monster, constancy is king
 k = int(input())
 l = int(input())
 m = int(input())

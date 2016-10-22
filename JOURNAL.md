@@ -7,3 +7,5 @@
 13/10/16 / Solve CodeForces 58A, 379A
 
 17/10/16 / Solve CodeForces 148A
+
+21/10/16 / Solve CodeForces 141A, 569A

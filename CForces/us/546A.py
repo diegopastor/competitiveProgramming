@@ -9,7 +9,7 @@ def main():
         bananasToBuy = nums[2]
         moneyToBorrow = 0
 
-        while money > 0:
+        while money - priceOfBanana > 0:
             money -= priceOfBanana
             priceOfBanana *= 2
             bananasToBuy -= 1
