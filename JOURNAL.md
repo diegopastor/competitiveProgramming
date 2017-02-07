@@ -10,4 +10,6 @@
 
 21/10/16 / Solve CodeForces 141A, 569A
 
-09/01/16 / Solve CodeForces 486A, back in the game after hiatus
+09/01/17 / Solve CodeForces 486A, back in the game after hiatus
+
+06/02/17 / Solve CodeForces 705A
