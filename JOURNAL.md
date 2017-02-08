@@ -13,3 +13,5 @@
 09/01/17 / Solve CodeForces 486A, back in the game after hiatus
 
 06/02/17 / Solve CodeForces 705A
+
+07/02/17 / Solve CodeForces 474A, 320A, 702A
