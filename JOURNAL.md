@@ -15,3 +15,5 @@
 06/02/17 / Solve CodeForces 705A
 
 07/02/17 / Solve CodeForces 474A, 320A, 702A
+
+14/02/17 / Solve CodeForces 546A, 69A
