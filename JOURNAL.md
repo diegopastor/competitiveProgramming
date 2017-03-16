@@ -25,3 +25,5 @@
 10/03/17 / Solve CodeForces 569A
 
 14/03/17 / Solve HackerRank Week of Code 30 Problem 1
+
+15/03/17 / Solve HackerRank Week of Code 30 Problems 2 and 3
