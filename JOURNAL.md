@@ -33,3 +33,5 @@
 18/03/17 / Solve CodeForces 791A
 
 19/03/17 / Solve CodeForces 472A
+
+23/03/17 / CodeForces 787 Contest

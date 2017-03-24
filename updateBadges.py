@@ -31,4 +31,3 @@ for line in fileinput.input(['README.md'], inplace=True):
     else:
         sys.stdout.write(line)
 
-print(CForces)
