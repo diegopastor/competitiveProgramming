@@ -43,3 +43,4 @@
 08/04/17 / Google Code Jam 2017
 
 10/04/17 / CodeForces Round #408 (Div.2)
+         / CodeForces 266B, 337A, 136A
