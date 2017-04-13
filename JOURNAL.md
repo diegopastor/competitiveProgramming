@@ -44,3 +44,5 @@
 
 10/04/17 / CodeForces Round #408 (Div.2)
          / CodeForces 266B, 337A, 136A
+
+12/04/17 / CodeForces 451A, 580A, 144A, 460A, 318A, 61A, 344A, 268A, 119A

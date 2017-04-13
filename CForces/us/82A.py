@@ -1,13 +1,9 @@
 n = int(input())
-n = n-1
-queue = ['Sheldon', 'Leonard', 'Penny', 'Rajesh', 'Howard']
+m = 1
+nms = ["Sheldon","Leonard","Penny","Rajesh","Howard"]
 
-def extendQ(q,n):
-    for i in range(0,n):
-        q.append(q[i])
-        q.append(q[i])
-    return q
+while (m*5) < n:
+    n -= m * 5
+    m *= 2
 
-ans = extendQ(queue,n)
-print(ans[n])
-
+print(nms[(n-1)//m])
