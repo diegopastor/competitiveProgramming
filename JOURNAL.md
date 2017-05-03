@@ -50,3 +50,9 @@
 14/04/17 / CodeForces 500A, 443A, 510A, 25A, 339B, 230A, 466A
 
 15/04/17 / CodeForces 492A
+
+20/04/17 / CodeForces 766A
+
+25/04/17 / CodeForces 313A, 200B, 723A, 581A
+
+02/05/17 / CodeForces 584A
