@@ -56,3 +56,7 @@
 25/04/17 / CodeForces 313A, 200B, 723A, 581A
 
 02/05/17 / CodeForces 584A
+
+18/05/17 / CodeForces 149A
+
+21/05/17 / CodeForces 519A, 599A, 513A, 556A
