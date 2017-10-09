@@ -60,3 +60,6 @@
 18/05/17 / CodeForces 149A
 
 21/05/17 / CodeForces 519A, 599A, 513A, 556A
+
+06/10/17 / Started GH Pupil Plan Back at it again after hiatus UVa 11172
+         / This time starting with c++ from the bottom
