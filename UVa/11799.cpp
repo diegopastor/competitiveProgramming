@@ -1,6 +1,6 @@
 #include <iostream>
-#include <string>
 #include <vector>
+#include <string>
 using namespace std;
 
 int main(){
@@ -10,10 +10,9 @@ int main(){
         int max = 0;
         string s = to_string(i+1);
         int input;
-        while((cin.peek()!='\n') && (cin >> input)){
-            cout << input;
-            if(input > max){
-                max = input;
+        int vecpos = 0;
+        while(getline (cin, nums[vecpos]){
+                vecpos++;
             }
         }
         string m = to_string(max);
