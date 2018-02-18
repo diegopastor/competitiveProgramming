@@ -63,3 +63,8 @@
 
 06/10/17 / Started GH Pupil Plan Back at it again after hiatus UVa 11172
          / This time starting with c++ from the bottom
+
+17/02/18 / Started GH Pupil Plan (Again(Again)) This time c++ from the bottom
+         / CodeForces 705A
+         / Competitive Programming 3 1.1 - 1.3
+         / Competitive Progarmmers' Handbook Chapter 1 

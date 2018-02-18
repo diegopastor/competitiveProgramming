@@ -13,10 +13,13 @@ def dir(path, extension):
     return count
 
 CForces = dir('CForces','.py')
-CForces -= 2
+CForces -= 2 #Hardcoded number of templates
+CForces += dir('CForces','.cpp')
 PE = dir('PE','.py')
+PE += dir('PE','.cpp')
 UVa = dir('UVa','.py')
-UVa -= 1
+UVa += dir('UVa','.cpp')
+UVa -= 1 #Hardcoded number of templates
 
 for line in fileinput.input(['README.md'], inplace=True):
     if line.strip().startswith('<img src="https://img.shields.io/badge/CodeForces'):
