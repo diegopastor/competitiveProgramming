@@ -1,1 +1,1 @@
-a,b  = [int(x) for x in input().split(' ')]
+X = list(input().split(' '))

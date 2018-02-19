@@ -68,3 +68,5 @@
          / CodeForces 705A
          / Competitive Programming 3 1.1 - 1.3
          / Competitive Progarmmers' Handbook Chapter 1 
+
+18/02/18 / CodeForces 520A
