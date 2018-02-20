@@ -70,3 +70,5 @@
          / Competitive Progarmmers' Handbook Chapter 1 
 
 18/02/18 / CodeForces 520A
+
+19/02/18 / CodeForces 621A

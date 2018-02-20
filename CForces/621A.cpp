@@ -1,5 +1,8 @@
 #include <iostream>
 #include <vector>
+#include <numeric>
+#include <algorithm>
+typedef unsigned long long ull;
 using namespace std;
 
 bool odd(int n){
@@ -12,24 +15,21 @@ bool odd(int n){
 
 int main(){
     int n;
-    vector<int> odds;
     cin >> n;
-    int num = 0;
-    unsigned long long sum = 0;
+    ull num = 0;
+    ull smallest = (ull) -1;
+    ull sum = 0;
     for(int i = 0; i < n; i++){
         cin >> num;
         if(odd(num)){
-            odds.push_back(num);
-                if(odds.size() == 2){
-                    sum += odds[0];
-                    sum += odds[1];
-                    odds.erase(odds.begin(),odds.end());
-                }
+            sum += num;
+            smallest = min(smallest, num);
         }else{
             sum += num;
         } 
     }
-    
+    if(odd(sum)){
+        sum -= smallest;
+    }
     cout << sum << '\n';
 }
-
