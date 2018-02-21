@@ -72,3 +72,5 @@
 18/02/18 / CodeForces 520A
 
 19/02/18 / CodeForces 621A
+
+20/02/18 / CodeForces 158A, 732A, 263A, 271A
