@@ -18,6 +18,7 @@ PE = dir('PE','.py')
 PE += dir('PE','.cpp')
 UVa = dir('UVa','.py')
 UVa += dir('UVa','.cpp')
+total = CForces + PE + UVa
 
 for line in fileinput.input(['README.md'], inplace=True):
     if line.strip().startswith('<img src="https://img.shields.io/badge/CodeForces'):
@@ -28,6 +29,9 @@ for line in fileinput.input(['README.md'], inplace=True):
         sys.stdout.write(line)
     elif line.strip().startswith('<img src="https://img.shields.io/badge/UVa'):
         line = '<img src="https://img.shields.io/badge/UVa-'+str(UVa)+'-brightgreen.svg">\n' 
+        sys.stdout.write(line)
+    elif line.strip().startswith('<img src="https://img.shields.io/badge/Total'):
+        line = '<img src="https://img.shields.io/badge/Total-'+str(total)+'-ff69b4.svg">'
         sys.stdout.write(line)
     else:
         sys.stdout.write(line)
