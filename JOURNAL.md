@@ -31,9 +31,10 @@
 |02/05/17 | CodeForces 584A
 |18/05/17 | CodeForces 149A
 |21/05/17 | CodeForces 519A, 599A, 513A, 556A
-|06/10/17 | Started GH Pupil Plan Back at it again after hiatus UVa 11172 This time starting with c++ from the bottom
-|17/02/18 | Started GH Pupil Plan (Again(Again)) This time c++ from the bottom, CodeForces 705A, CP3 1.1 - 1.3, CPHandbook Chapter 1
+|06/10/17 | Start GH Pupil Plan, UVa 11172
+|17/02/18 | GH Pupil Plan, CodeForces 705A, CP3 1.1 - 1.3, CPHandbook Chapter 1
 |18/02/18 | CodeForces 520A
 |19/02/18 | CodeForces 621A
 |20/02/18 | CodeForces 158A, 732A, 263A, 271A
 |21/02/18 | UVa 272, 1124, 10550, 11044, 11498, 11727
+|22/02/18 | CodeForces 32B
