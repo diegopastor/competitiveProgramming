@@ -38,4 +38,5 @@
 |20/02/18 | CodeForces 158A, 732A, 263A, 271A
 |21/02/18 | UVa 272, 1124, 10550, 11044, 11498, 11727
 |22/02/18 | CodeForces 32B
-|23/02/18 | CodeForces 275A~
+|23/02/18 | CodeForces 275A
+|24/02/18 | CodeForces 80A
