@@ -40,3 +40,4 @@
 |22/02/18 | CodeForces 32B
 |23/02/18 | CodeForces 275A
 |24/02/18 | CodeForces 80A
+|25/02/18 | CodeForces 266B, 61A, 233A
