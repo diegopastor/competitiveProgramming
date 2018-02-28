@@ -42,3 +42,4 @@
 |24/02/18 | CodeForces 80A
 |25/02/18 | CodeForces 266B, 61A, 233A
 |26/02/18 | CodeForces 248A, 155A, 151A
+|27/02/18 | UVa 11547
