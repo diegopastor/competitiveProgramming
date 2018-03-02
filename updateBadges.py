@@ -18,7 +18,14 @@ PE = dir('PE','.py')
 PE += dir('PE','.cpp')
 UVa = dir('UVa','.py')
 UVa += dir('UVa','.cpp')
-total = CForces + PE + UVa
+Other = dir('HackerR/WOC30','.py')
+Other += dir('HackerR/WOC30','.cpp')
+Other += dir('CodeJam/2017','.py')
+Other += dir('CodeJam/2017','.py')
+Other += dir('Misc./ICPC001','.py')
+Other += dir('Misc./CF001','.py')
+Other += dir('Misc./CF002','.py')
+total = CForces + PE + UVa + Other
 
 for line in fileinput.input(['README.md'], inplace=True):
     if line.strip().startswith('<img src="https://img.shields.io/badge/CodeForces'):
@@ -29,6 +36,9 @@ for line in fileinput.input(['README.md'], inplace=True):
         sys.stdout.write(line)
     elif line.strip().startswith('<img src="https://img.shields.io/badge/UVa'):
         line = '<img src="https://img.shields.io/badge/UVa-'+str(UVa)+'-brightgreen.svg">\n' 
+        sys.stdout.write(line)
+    elif line.strip().startswith('<img src="https://img.shields.io/badge/Other'):
+        line = '<img src="https://img.shields.io/badge/Other-'+str(Other)+'-123044.svg">\n' 
         sys.stdout.write(line)
     elif line.strip().startswith('<img src="https://img.shields.io/badge/Total'):
         line = '<img src="https://img.shields.io/badge/Total-'+str(total)+'-ff69b4.svg">'
