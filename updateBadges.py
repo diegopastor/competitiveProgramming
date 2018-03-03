@@ -25,6 +25,8 @@ Other += dir('CodeJam/2017','.py')
 Other += dir('Misc./ICPC001','.py')
 Other += dir('Misc./CF001','.py')
 Other += dir('Misc./CF002','.py')
+Other += dir('CodeFights','.py')
+Other += dir('CodeFights','.cpp')
 total = CForces + PE + UVa + Other
 
 for line in fileinput.input(['README.md'], inplace=True):

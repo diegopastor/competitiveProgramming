@@ -6,5 +6,5 @@
 <img src="https://img.shields.io/badge/CodeForces-90-blue.svg">
 <img src="https://img.shields.io/badge/ProjectEuler-7-orange.svg">
 <img src="https://img.shields.io/badge/UVa-18-brightgreen.svg">
-<img src="https://img.shields.io/badge/Other-13-123044.svg">
-<img src="https://img.shields.io/badge/Total-128-ff69b4.svg">
+<img src="https://img.shields.io/badge/Other-16-123044.svg">
+<img src="https://img.shields.io/badge/Total-131-ff69b4.svg">
