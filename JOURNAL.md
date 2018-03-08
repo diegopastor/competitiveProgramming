@@ -46,3 +46,4 @@
 |02/03/18 | CodeFights TYC A,B,C
 |05/03/18 | CodeForces 450A
 |06/03/18 | CodeForces 946A, 734A, 677A
+|07/03/18 | UVa 11507
