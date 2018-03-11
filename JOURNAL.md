@@ -48,3 +48,4 @@
 |06/03/18 | CodeForces 946A, 734A, 677A
 |07/03/18 | UVa 11507
 |09/03/18 | CodeForces 465B, 811A, 821A, 224A, 270A
+|10/03/18 | RedProgramacionCompetitiva Training J
