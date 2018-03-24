@@ -5,6 +5,6 @@
 ## Solved Problems
 <img src="https://img.shields.io/badge/CodeForces-99-blue.svg">
 <img src="https://img.shields.io/badge/ProjectEuler-7-orange.svg">
-<img src="https://img.shields.io/badge/UVa-19-brightgreen.svg">
+<img src="https://img.shields.io/badge/UVa-20-brightgreen.svg">
 <img src="https://img.shields.io/badge/Other-16-123044.svg">
-<img src="https://img.shields.io/badge/Total-141-ff69b4.svg">
+<img src="https://img.shields.io/badge/Total-142-ff69b4.svg">
