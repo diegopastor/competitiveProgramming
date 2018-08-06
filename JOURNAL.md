@@ -52,4 +52,6 @@
 |11/03/18 | UVa 12577
 |23/03/18 | CodeForces 955A, 955B
 |01/04/18 | CodeForces 952A, 952B
-|01/04/18 | CodeForces 554B
+|24/05/18 | CodeForces 554B
+|25/05/18 | CodeForces 227B, 272A
+|05/08/18 | CodeForces 1015A
