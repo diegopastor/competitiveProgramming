@@ -55,3 +55,5 @@
 |24/05/18 | CodeForces 554B
 |25/05/18 | CodeForces 227B, 272A
 |05/08/18 | CodeForces 1015A
+|06/08/18 | CodeForces 1011A
+|06/08/18 | Kattis Eight Queens, CodeForces 43A
